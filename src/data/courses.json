@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "React Basics",
+    "description": "Learn the fundamentals of React components and props.",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=800&q=80",
+    "price": "$49"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Mastery",
+    "description": "Practice modern JavaScript concepts and DOM handling.",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=800&q=80",
+    "price": "$39"
+  },
+  {
+    "id": 3,
+    "title": "CSS Styling",
+    "description": "Build attractive layouts with flexbox and modern CSS.",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
+    "price": "$29"
+  },
+  {
+    "id": 4,
+    "title": "Node.js Basics",
+    "description": "Create backend logic and APIs with Node.js.",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=800&q=80",
+    "price": "$45"
+  },
+  {
+    "id": 5,
+    "title": "UI/UX Design",
+    "description": "Design clean and user-friendly interfaces.",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=800&q=80",
+    "price": "$35"
+  }
+]

@@ -1,0 +1,36 @@
+.about-page {
+  text-align: left;
+}
+
+.about-page h1 {
+  margin-bottom: 12px;
+}
+
+.about-highlights {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.about-card {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 16px;
+  padding: 18px;
+}
+
+.about-card h3 {
+  margin: 0 0 8px;
+  color: #1d4ed8;
+}
+
+.about-card p {
+  margin: 0;
+}
+
+@media (max-width: 760px) {
+  .about-highlights {
+    grid-template-columns: 1fr;
+  }
+}
